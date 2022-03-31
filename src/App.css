@@ -1,0 +1,118 @@
+@import url('http://fonts.cdnfonts.com/css/bogle');
+.Apparel {
+    width: 1920px;
+    height: 538px;
+    background-image: url(/src/assets/images/background1.png);
+    background-size: 100%;
+    position: relative;
+}
+
+.Apparel>#spark {
+    width: 88.96px;
+    height: 99.48px;
+    top: 401px;
+    left: 1768px;
+    position: absolute;
+}
+
+.Apparel2 {
+    width: 1920px;
+    height: 158px;
+    margin-top: 20px;
+    background-image: url(/src/assets/images/background.png);
+    background-size: 100%;
+}
+
+.Apparel2>#label {
+    position: absolute;
+    left: 68px;
+    top: 38px;
+    margin-top: 565px;
+    font-family: 'Bogle';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 83px;
+    color: #FFFFFF;
+}
+
+.Apparel2>#girl1 {
+    height: 230px;
+    margin-top: 559px;
+    width: 197px;
+    position: absolute;
+    left: 1040px;
+    top: 0px;
+    background-size: 100%;
+    background-repeat: no-repeat
+}
+
+.Apparel2>#girl2 {
+    height: 157px;
+    width: 322px;
+    margin-top: 559px;
+    position: absolute;
+    left: 1092px;
+    top: 0px;
+    background-size: 100%;
+    background-repeat: no-repeat
+}
+
+.Apparel2>#back-image {
+    height: 158px;
+    width: 382px;
+    position: absolute;
+    margin-top: 559px;
+    right: 12px;
+    top: 0px;
+    background-size: 100%;
+    background-repeat: no-repeat
+}
+
+.Apparel2>#back-image>#label {
+    position: absolute;
+    width: 268px;
+    right: -50%;
+    top: 50%;
+    transform: translate(-75%, -50%);
+    font-family: 'Bogle';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 250%;
+    line-height: 1;
+    color: #FFFFFF;
+}
+
+.Apparel3 {
+    width: 1920px;
+    height: 158px;
+    margin-top: 20px;
+    background-image: url(/src/assets/images/background.png);
+    background-size: 100%;
+}
+
+.Apparel3>#back-image2 {
+    height: 158px;
+    width: 382px;
+    position: absolute;
+    margin-top: 736px;
+    margin-right: 1395px;
+    right: 12px;
+    top: 0px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.Apparel3>#back-image2>#label {
+    position: absolute;
+    width: 268px;
+    right: -50%;
+    top: 50%;
+    transform: translate(-75%, -50%);
+    font-family: 'Bogle';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 250%;
+    line-height: 1;
+    color: #FFFFFF;
+}
